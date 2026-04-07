@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Allow: /
+Allow: /sitemap.xml
+Sitemap: https://expndit.com/sitemap.xml
+Sitemap: https://www.expndit.com/sitemap.xml
